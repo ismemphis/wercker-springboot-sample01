@@ -36,7 +36,7 @@
 
       <div class="blueBannerHeading">
         <h1 class="blueBannerTitleWithSubtitle">
-          <a style="color: #ffffff">Oracle Container Cloud Service + Wercker SAMPLE XXXXX</a>
+          <a style="color: #ffffff">Oracle Container Cloud Service + Wercker SAMPLE 01 12Feb2018</a>
         </h1>
       </div>
 
